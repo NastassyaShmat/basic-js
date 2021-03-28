@@ -1,4 +1,4 @@
-const CustomError = require("../extensions/custom-error");
+//const CustomError = require("../extensions/custom-error");
 
 module.exports = function transform(a) {
   let k = a.map(function name(number) {
